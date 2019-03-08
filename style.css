@@ -1,0 +1,10 @@
+body{
+    background: url(resources/ls.jpg);
+}
+.my-card{
+    width: 30%;
+    margin: 25px;
+}
+.my-brand{
+    margin-left: 10%;
+}
